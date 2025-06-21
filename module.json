@@ -1,0 +1,62 @@
+{
+  "id": "enclave-gear-pack",
+  "title": "Enclave Gear Pack",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "Enclave Weapons",
+      "path": "packs/pack-1",
+      "type": "Item",
+      "system": "arcane-arcade-fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "enclave-armor",
+      "label": "Enclave Armor",
+      "path": "packs/enclave-armor",
+      "type": "Item",
+      "system": "arcane-arcade-fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "enclave-properties",
+      "label": "Enclave Properties",
+      "path": "packs/enclave-properties",
+      "type": "Item",
+      "system": "arcane-arcade-fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "enclave-consumables",
+      "label": "Enclave Consumables",
+      "path": "packs/enclave-consumables",
+      "type": "Item",
+      "system": "arcane-arcade-fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": "A simple compendium of powerful items used by the remnants of the United States  Government and Military",
+  "authors": [
+    {
+      "name": "GrimdarkCrusader",
+      "flags": {}
+    }
+  ]
+}
